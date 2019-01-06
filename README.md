@@ -31,7 +31,7 @@ Support
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
 If you've found an error in this project, please file an issue:
-https://github.com/msayan/as-hackathon
+https://github.com/msayan/freeletics-interview
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
